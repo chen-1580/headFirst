@@ -1,4 +1,4 @@
-package com.ckx.observer.station;
+package com.ckx.observer.main;
 
 import com.ckx.observer.conditions.CurrentConditionsDisplay;
 import com.ckx.observer.conditions.ForecastDisplay;
